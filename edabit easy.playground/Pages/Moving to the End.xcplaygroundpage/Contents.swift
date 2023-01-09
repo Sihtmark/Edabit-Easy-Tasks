@@ -7,7 +7,7 @@ import Foundation
 // Write a function that moves all elements of one type to the end of the array.
 
 func moveToEnd(_ arr: [Int], _ el: Int) -> [Int] {
-    return (arr.filter{$0 != el} + arr.filter{$0 == el})
+    return arr.filter{$0 != el} + arr.filter{$0 == el}
 }
 
 moveToEnd([1, 3, 2, 4, 4, 1], 1) // ➞ [3, 2, 4, 4, 1, 1]

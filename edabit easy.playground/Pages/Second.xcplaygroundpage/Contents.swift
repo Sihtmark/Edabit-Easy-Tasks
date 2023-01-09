@@ -262,46 +262,11 @@ func sortByLength(_ arr: [String]) -> [String] {
 
 
 
-//1. Algorithms I: Introduction to Recursion
-
-func factorial(_ num: Int) -> Int {
-    let targetNumber = 1
-    var x = num
-    var y = num
-    while x != targetNumber {
-        x -= 1
-        y *= x
-    }
-    return y
-}
-(factorial(5))
-(factorial(3))
-(factorial(2))
 
 
 
-//2. Sort Numbers in Ascending Order
-
-func sortNumsAcending(_ arr: [Int]?) -> [Int] {
-    return arr?.sorted() ?? []
-}
-(sortNumsAcending([1, 2, 10, 50, 5]))
-(sortNumsAcending(nil))
-(sortNumsAcending([80, 29, 4, -95, -24, 85]))
 
 
 
-//3. Pi to N Decimal Places
 
-func myPi(_ n: Int) -> Double {
-    let Pi = 3.141592653589793
-    var x: Double = 1
-    for _ in 1...n {
-        x *= 10
-    }
-    let y = (Pi * x).rounded() / x
-    return y
-}
-(myPi(5))
-(myPi(4))
-(myPi(15))
+
