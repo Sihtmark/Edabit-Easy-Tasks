@@ -6,8 +6,33 @@
         <page name='Third'/>
         <page name='Fourth'/>
         <page name='Fiefth'/>
-        <page name='Sixth'/>
-        <page name='Seventh'/>
-        <page name='Eighth'/>
+        <page name='The Karaca&apos;s Encryption Algorithm'/>
+        <page name='Compare by ASCII Codes'/>
+        <page name='Exists a Number Higher?'/>
+        <page name='GCD of Two Numbers'/>
+        <page name='Chat Room Status'/>
+        <page name='Valid Zip Code'/>
+        <page name='Older Than Me'/>
+        <page name='Sum of Digits Between Two Numbers'/>
+        <page name='Check if a Number is a Palindrome'/>
+        <page name='What&apos;s Hiding Amongst the Crowd?'/>
+        <page name='Prefixes vs. Suffixes'/>
+        <page name='International Greetings'/>
+        <page name='Sort Numbers in Descending Order'/>
+        <page name='Negative Image'/>
+        <page name='Return the Middle Character(s) of a String'/>
+        <page name='Convenience Store'/>
+        <page name='Likes vs. Dislikes'/>
+        <page name='Increment to Top'/>
+        <page name='Chocolate Dilemma'/>
+        <page name='Return the Sum of the Two Smallest Numbers'/>
+        <page name='The Conquering Queen'/>
+        <page name='Snail Race'/>
+        <page name='Moving to the End'/>
+        <page name='Simple Circle Collosion Detection'/>
+        <page name='Hamming Distance'/>
+        <page name='Char-to-ASCII'/>
+        <page name='Even or Odd Number of Factors'/>
+        <page name='Total Volume of All Boxes'/>
     </pages>
 </playground>
