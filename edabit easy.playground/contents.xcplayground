@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
     <pages>
-        <page name='First'/>
-        <page name='Second'/>
         <page name='Factor Chain'/>
         <page name='The Karaca&apos;s Encryption Algorithm'/>
         <page name='Compare by ASCII Codes'/>
@@ -87,5 +85,29 @@
         <page name='Pi to N Decimal Places'/>
         <page name='Sort Numbers in Ascending Order'/>
         <page name='Algorithms I Introduction to Recursion'/>
+        <page name='Sort an Array by String Length'/>
+        <page name='Barbecue Skewers'/>
+        <page name='Nth Smallest Integer'/>
+        <page name='Get the Century'/>
+        <page name='Sum of all Evens in a Matrix'/>
+        <page name='Spelling it Out'/>
+        <page name='Secret Society'/>
+        <page name='Upper or Lower Case'/>
+        <page name='Largest Swap'/>
+        <page name='Cumulative Array Sum'/>
+        <page name='Transform into an Array with No Duplicates'/>
+        <page name='Transforming Words into Binary Strings'/>
+        <page name='Repeating Letters'/>
+        <page name='Box Completely Filled?'/>
+        <page name='Lexicographically First and Last'/>
+        <page name='Switcharoo'/>
+        <page name='Find the Second Largest Number'/>
+        <page name='State Names and abbreviations'/>
+        <page name='Smaller String Number'/>
+        <page name='Check if a String Contains only Identical Characters'/>
+        <page name='Even Odd Partition'/>
+        <page name='Reverse Coding Challenge #3'/>
+        <page name='Remove the First and Last Characters'/>
+        <page name='How many Vowels?'/>
     </pages>
 </playground>
